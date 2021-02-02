@@ -1,0 +1,60 @@
+achorado	agresivo
+api 	papa
+asado	enojado
+bacan	genial
+bagre	vulgar
+bailongo	fiesta
+bamba	falso
+bitutear	comer
+cachaciento	burlon
+cana	prision
+causa	amigo
+conchudo	desvergonzado
+chamba	empleo
+chato	bajo
+chela	cerveza
+chevere	genial
+chibolo	joven
+chivilin	dinero
+choche	amigo
+chochera	amigo
+choro	ladron
+chupar	beber alcohol
+churro	guapo
+ficho	elegante
+figureti	presumido
+florear	mentir
+gauchada	favor
+gil	idiota
+gilazo	idiota
+guachiman	vigilante
+huachiman	vigilante
+huasca	borracho
+jatear	dormir
+jato	casa
+lechero	afortunado
+misio	sin dinero
+monse	estupido
+mostro	excelente
+oe	oye
+paja	excelente
+paltearse	equivocarse
+papi	papa
+pata	chico
+pe	pues
+pendejo	astuto
+perrex	perro
+pichanga	partido informal de futbol
+piña	mala suerte
+pituco	persona rica
+profe	profesor
+q	que
+roche	vergüenza
+taipa	abundante
+tombo	policia
+tono	fiesta
+tonear	ir de fiesta
+viktoria	victoria
+x	por
+yapa	extra
+yunta	amigo
